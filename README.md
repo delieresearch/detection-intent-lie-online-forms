@@ -105,7 +105,7 @@ He is a Machine Learning Engineer and Computer Science student at [Faculty of In
 - Email: petersmrecek([AT])gmail.com
 
 ### General contact
-- Email: dielie.research([AT])gmail.com
+- Email: delie.research([AT])gmail.com
 
 ## <a name="a-licence"> Licence
 
