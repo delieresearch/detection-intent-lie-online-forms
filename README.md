@@ -20,7 +20,7 @@ In this study, we created a dataset that includes information on user behavior d
   
 ### <a name="a-dataset-access"> Dataset Access  
 
-To access the original anonymized dataset, please contact the authors at dielie.research([AT])gmail.com.
+To access the original anonymized dataset, please contact the authors at delie.research([AT])gmail.com.
 
 ## <a name="a-questionnaire"> Questionnaire Preview
 
