@@ -1,8 +1,8 @@
-# User Modeling for Detection of Intent to Lie in Likert-Based Online Forms Using Low-Level Interactions
+# User Modeling for Detection of Intent to Lie in Likert-Based Online Forms
 
 ## About
 
-This is the official repository for the research paper "User Modeling for Detection of Intent to Lie in Likert-Based Online Forms Using Low-Level Interactions". The research focuses on identifying lies in Likert-style personality questionnaires. The repository includes the processed dataset used for training the model, the data processing pipeline, and the model evaluation steps. The goal is to enable other researchers to reproduce the data manipulation and model development processes. If you have any questions, you can contact the authors using the [contact information provided below](#a-authors).
+This is the official repository for the research paper "User Modeling for Detection of Intent to Lie in Likert-Based Online Forms". The research focuses on identifying lies in Likert-style personality questionnaires. The repository includes the processed dataset used for training the model, the data processing pipeline, and the model evaluation steps. The goal is to enable other researchers to reproduce the data manipulation and model development processes. If you have any questions, you can contact the authors using the [contact information provided below](#a-authors).
 
 #### Table of Contents
 * [Paper Citation](#a-citation)
