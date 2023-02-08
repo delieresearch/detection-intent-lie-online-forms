@@ -94,10 +94,14 @@ Script for search of hyperparameters for Logistic Regression.
 ## <a name="a-authors"> Authors
   
 ### Eduard Kuric
-TBA
+He is a researcher and lecturer at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/), [Slovak University of Technology in Bratislava](https://www.stuba.sk/). He is also a founder of [UXtweak](https://www.uxtweak.com). His research interests include human-computer interaction, user modeling, and machine learning.
+- Email: eduard.kuric([AT])stuba.sk
+- [LinkedIn](https://www.linkedin.com/in/eduard-kuric-b7141280/)
+- [Google Scholar](https://scholar.google.com/citations?user=MwjpNoAAAAAJ&hl=en&oi=ao)
 
 ### Peter Demcak
-TBA
+He is a researcher at [UXtweak](https://www.uxtweak.com/). His current research topics of interest involve user behavior, UX research methods and design practices, and machine learning.
+- Email: peter.demcak([AT])uxtweak.com
 
 ### Peter Smrecek
 He is a Machine Learning Engineer and Computer Science student at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/), [Slovak University of Technology in Bratislava](https://www.stuba.sk/). He is focusing on development and operations in field of Data Science. 
