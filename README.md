@@ -35,8 +35,8 @@ We were using 2 variants of the same questionnaire with different instruction. A
 </table>
 
 Previews of the study are available here:
-  - [Study - ENG](https://study.uxtweak.com/webusability/Tih31u3YlnxIQWI7hzKHN)
-  - [Study - SK](https://study.uxtweak.com/webusability/t3L55N4ZIWhAkKory8Br2)
+  - [Study - ENG](https://study.uxtweak.com/webusability/preview/duWYfMNUeZSL4odlpZJDa/1OidpJ4e53KvRk0itJ67X)
+  - [Study - SK](https://study.uxtweak.com/webusability/preview/1gy7SMSugUNnLJtWKtJ0L/BIzDRGdLCML3nE0CzREfQ)
   
 Study randomly selects you one of two variants of questionnaire variants. To access questionnaire directly, you can use these links:
   - [FG - ENG](https://delie.limesurvey.net/628192?lang=en)
