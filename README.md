@@ -24,7 +24,7 @@ To access the original anonymized dataset, please contact the authors at delie.r
 
 ## <a name="a-questionnaire"> Questionnaire Preview
 
-Betweem the H (Honest) and FG (Faking-good) groups, we used 2 variants of the same questionnaire with different instruction. Participants were required to use a physical computer mouse during the questionnaire completion.
+Betweem the Honest and Faking-good groups, we used 2 variants of the same questionnaire with different instruction. Participants were required to use a physical computer mouse during the questionnaire completion.
 
 <table>
   <tr>
@@ -34,21 +34,23 @@ Betweem the H (Honest) and FG (Faking-good) groups, we used 2 variants of the sa
   </tr>
 </table>
 
-Previews of the study to view the experiment from the perspective of the participants (without any data being collected):
+Previews of the study that allow for viewing the experiment from the perspective of the participants (without any data being collected) are found below. For convenience, we include links for previews with random assignment to questionnaire instruction variants (variants corresponding to the Honest and Faking-good groups that participants are randomly assigned into), as well as direct links to specific questionnaire instruction variants.
+
+Random group assignment study previews:
   - [Study preview - English translation](https://study.uxtweak.com/webusability/duWYfMNUeZSL4odlpZJDa)
   - [Study preview - Original Slovak version used during the experiment](https://study.uxtweak.com/webusability/1gy7SMSugUNnLJtWKtJ0L)
-  
-The study randomly assigns participants one of two questionnaire variants. Previews to access specific variants directly:
-  - [FG - Faking-good response triggering instructions variant - English translation](https://delie.limesurvey.net/628192?lang=en)
-  - [H - Honest response triggering instructions - English translation](https://delie.limesurvey.net/778728?lang=en)
-  - [FG - Faking-good response triggering instructions variant - Original Slovak version](https://delie.limesurvey.net/919549?lang=sk)
-  - [H - Honest response triggering instructions - Original Slovak version](https://delie.limesurvey.net/192868?lang=sk)
+
+Direct study previews to specific group variants:
+  - [Faking-good group study preview - English translation](https://delie.limesurvey.net/628192?lang=en)
+  - [Honest group study preview - English translation](https://delie.limesurvey.net/778728?lang=en)
+  - [Faking-good  group study preview - Original Slovak version](https://delie.limesurvey.net/919549?lang=sk)
+  - [Honest group study preview - Original Slovak version](https://delie.limesurvey.net/192868?lang=sk)
 
 Questionnaire files that can be imported into [Limesurvey](https://www.limesurvey.org/):
-  - [FG - Faking-good response triggering instructions variant - English translation](Questionnaire/Files/fg_en.lss)
-  - [H - Honest response triggering instructions - English translation](Questionnaire/Files/h_en.lss)
-  - [FG - Faking-good response triggering instructions variant - Original Slovak version](Questionnaire/Files/fg_sk.lss)
-  - [H - Honest response triggering instructions - Original Slovak version](Questionnaire/Files/h_sk.lss)
+  - [Faking-good group questionnaire files - English translation](Questionnaire/Files/fg_en.lss)
+  - [Honest group questionnaire files - English translation](Questionnaire/Files/h_en.lss)
+  - [Faking-good group questionnaire files - Original Slovak version](Questionnaire/Files/fg_sk.lss)
+  - [Honest group questionnaire files - Original Slovak version](Questionnaire/Files/h_sk.lss)
 
 ## <a name="a-scripts"> Scripts
 The scripts for this project are all written in Python (version 3.10.7), with the aid of libraries obtained through pip (version 22.2.2). They were run on Jupyter notebooks. A detailed list of dependencies can be found in the [requirements file](Scripts/requirements.txt). We recommend using a [virtual environment](https://docs.python.org/3/library/venv.html) to install the necessary components and start the notebooks.
